@@ -65,6 +65,6 @@
       "library": { "style": "css", "linter": "eslint" }
     }
   },
-  "nxCloudId": "69a6dfad26c3b33451ab20fb",
-  "nxCloudUrl": "https://snapshot.nx.app"
+  "nxCloudId": "69a9908dadbd16ed768ac32c",
+  "nxCloudUrl": "https://staging.nx.app"
 }
